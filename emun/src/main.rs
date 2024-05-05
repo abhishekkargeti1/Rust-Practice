@@ -1,19 +1,20 @@
-enum Cartypes{
-    Hatchback,
-    Suv,
-    Muv
+// enum Cartypes{
+//     Hatchback,
+//     Suv,
+//     Muv
 
-}
-fn printCars(car:Cartypes){
-    match  {
-        Cartypes::Hatchback =>{
-            println!("hi");
+// }
+// fn printCars(car:Cartypes){
+//     match  {
+//         Cartypes::Hatchback =>{
+//             println!("hi");
         
-    }
+//     }
 
-}
+// }
 
 
-fn main() {
-    println!("Hello, world!");
-}
+
+// fn main() {
+//     println!("Hello, world!");
+// }
